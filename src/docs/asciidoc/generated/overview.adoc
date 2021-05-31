@@ -1,0 +1,46 @@
+= swagger测试项目
+
+
+[[_overview]]
+== 概览
+swagger测试API接口文档
+
+
+=== 版本信息
+[%hardbreaks]
+__版本__ : 1.0
+
+
+=== 联系方式
+[%hardbreaks]
+__名字__ : liuxunming
+__邮箱__ : diyangxia@163.com
+
+
+=== 许可信息
+[%hardbreaks]
+__服务条款__ : http://www.liuxunming.com/
+
+
+=== URI scheme
+[%hardbreaks]
+__域名__ : localhost:8080
+__基础路径__ : /
+
+
+=== 标签
+
+* 健康API接口 : Health Controller
+
+
+=== 消耗
+
+* `application/json`
+
+
+=== 生成
+
+* `application/json`
+
+
+
